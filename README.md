@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Currenlty Learning Android
 
 - 📫 How to reach me @kiranpatil4276@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚡ Strong Problem Solver
 
 <!---
 kiranpatil4276/kiranpatil4276 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
