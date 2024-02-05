@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiranpatil4276
 - 👀 I’m interested in Web Development & App Developement
-- 🌱 I’m currently learning Currenlty Learning Android
+- 🌱 I’m  Currenlty Learning Jsp Servlet
 
 - 📫 How to reach me @kiranpatil4276@gmail.com
 
