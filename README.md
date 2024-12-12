@@ -1,4 +1,4 @@
-CEO and Founder of Ktech Dyanamics
+CEO and Founder AT Ktech Dyanamics
 http://ktechdynamics.wuaze.com/
 
 - 👋 Hi, I’m @kiranpatil4276
