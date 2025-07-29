@@ -1,5 +1,4 @@
-CEO and Founder AT Ktech Dyanamics
-http://ktechdynamics.wuaze.com/
+
 
 - 👋 Hi, I’m @kiranpatil4276
 - 👀 I’m interested in Web Development & App Developement
